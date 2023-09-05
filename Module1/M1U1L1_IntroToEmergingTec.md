@@ -79,19 +79,19 @@ AI 參與建模, 整合
 ## 課程地圖 30:00
 1. 通識:FSE598前沿計算技術
 2. 基礎:
-    1. CES565軟件驗證確認和測試
-    2. CES551算法基礎
-    3. CSE545軟件安全
+    1. CSE565軟件驗證確認和測試  MCS: Software Verification, Validation and Testing
+    2. CSE551算法基礎 MCS: Foundations of Algorithms
+    3. CSE545軟件安全 MCS: Software Security
     4. 綜合知識: 
-        1. FSE501科技創業
-        2. TGM598決策的藝術與科學
-3. 網路: CES534高級計算機網路
-4. 雲端: CSE546雲計算
+        1. FSE501科技創業 MSE: Technology Entrepreneurship
+        2. TGM598決策的藝術與科學 MGM?
+3. 網路: CSE534高級計算機網路 MCS: Advanced Computer Network?
+4. 雲端: CSE546雲計算 MCS: Cloud Computing?
 5. 大數據:
-    1. CSE511大規模數據處理
-    2. CSE578數據可視化
-6. AI:
-    1. CSE598社交媒體挖掘
-    2. CSE575基於統計學的機器學習
-7. CSE593應用項目
+    1. CSE511大規模數據處理 MCS: Data Processing at Scale
+    2. CSE578數據可視化 MCS: Data Visualization
+6. AI: CSE571人工智能 MCS: Artificial Intelligence
+    1. CSE598社交媒體挖掘 ?
+    2. CSE575基於統計學的機器學習 MCS: Statistical Machine Learning
+7. CSE593應用項目 MSE: Applied Project
 8. 作品集(兩門課的整合報告)
