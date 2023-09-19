@@ -1,0 +1,31 @@
+Rank,Title,Genre,Director,Year,Studio
+1,The Shawshank Redemption,Drama,Frank Darabont,DirectorNamePlaceHolder,1994,Warner Bros.
+2,The Godfather,Crime,Francis Ford Coppola,1972,Paramount Pictures
+3,2001: A Space Odyssey,Science fiction,Stanley Kubrick,1968,Metro-Goldwyn-Mayer
+4,Se7en,Mystery,David Fincher,1995,Warner Bros.
+5,Life Is Beautiful,Drama,Roberto Benigni,1997,Miramax Films
+6,Star Wars: The Empire Strikes Back,Science fiction,Richard Marquand,1980,Lucasfilm
+7,Schindler's List,Historical drama,Steven Spielberg,1993,Universal Pictures
+8,The Last Emperor,Drama,Bernardo Bertolucci,1987,Columbia Pictures
+9,Apocalypse Now,War,Francis Ford Coppola,1979,United Artists
+10,Spirited Away,Animated,Hayao Miyazaki,2001,Studio Ghibli
+11,Inception,Science fiction,Christopher Nolan,2010,Warner Bros.
+12,The Dark Knight,Action,Christopher Nolan,2008,Warner Bros.
+13,Mad Max: Fury Road,Action,George Miller,2015,Warner Bros.
+14,Blade Runner,Science fiction,Ridley Scott,1982,Warner Bros.
+15,Casablanca,Drama,Michael Curtiz,1942,Warner Bros.
+16,Citizen Kane,Drama,Orson Welles,1941,RKO Radio Pictures
+17,Star Wars: A New Hope,Science fiction,George Lucas,1977,20th Century Fox
+18,Monsters, Inc.,Animated,Pete Docter,2001,Pixar
+19,Crouching Tiger, Hidden Dragon: Sword of Destiny,Action,Yuen Woo-ping,2016,China Film Group Corporation
+20,The Godfather: Part II,Crime,Francis Ford Coppola,1974,Paramount Pictures
+21,The Lord of the Rings: The Return of the King,Fantasy,Peter Jackson,2003,New Line Cinema
+22,The Last Samurai,Historical drama,Edward Zwick,2003,Warner Bros.
+23,Three Idiots,Comedy-drama,Rajkumar Hirani,2009,UTV Motion Pictures
+24,Mad Max: Fury Road,Action,George Miller,2015,Warner Bros.
+25,Three Idiots,Comedy-drama,Rajkumar Hirani,2009,UTV Motion Pictures
+26,The Godfather: Part III,Crime,Francis Ford Coppola,1990,Paramount Pictures
+27,The Dark Knight Rises,Action,Christopher Nolan,2012,Warner Bros.
+28,Harry Potter and the Deathly Hallows: Part 2,Fantasy,David Yates,2011,Warner Bros.
+29,Avatar,Science fiction,James Cameron,2009,20th Century Fox
+30,Wonder Woman,Action,Patty Jenkins,2017,Warner Bros.

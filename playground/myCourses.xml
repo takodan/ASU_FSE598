@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Courses>
+  <Course>
+    <Name nameAttr="attributeValueHere">class1</Name>
+    <Name>class2</Name>
+  </Course>
+</Courses>
