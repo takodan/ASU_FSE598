@@ -5,4 +5,4 @@
     1. 一個網路交換器作為"root bridge"
     2. 把其他switch連接到"root bridge"的端口作為"root port"
     3. 在每個連接中任意選擇一邊不是"根端口"作為"designated port指定端口"
-    4. 關閉沒有被選到的端口
+    4. 關閉block沒有被選到的端口
